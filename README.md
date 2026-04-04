@@ -1,14 +1,14 @@
 # DIY-Vacuum-tube-amp-head
 
 ## Overview
-I've designed this Vacuum tube amplifier head mainly because I wanted learn some interesting stuff about tubes. It is a dual tube compact class A amplifier powered from power bank or 12V DC adapter so I can carry it with myself without need of power grid. It consists of ECC83 double triode as preamplifier and EL84 power pentode as power amplifier.
+A dual tube, compact class A amplifier head. It can be powered from powerbank or 12V DC adapter, so it can be carried around without any need of power grid. It consists of ECC83 double triode as preamplifier and EL84 pentode as power amplifier.
 
-It has a lot of useful features, including High Z and line-level inputs and clean and OD modes. It combines wood housing and aluminum sides along with some black knobs that makes it look somewhat reasonable. This project was part of my exhibition during SOČ day in our School. I've managed to complete it in three weeks and I think it turned out really well! The sound is just amazing!
+It has a lot of useful features, including High Z (6,3mm jack for electric guitar( and line-level Z (3.5mm jack) inputs and clean and OD modes. It combines wood housing and aluminum side panels along with some black knobs that makes it look somewhat reasonable. This project was part of my exhibition during SOČ day in our School. I've managed to complete it in three weeks and I think it turned out really well! The sound is just amazing!
 
 <img src="https://github.com/user-attachments/assets/b899b94e-9ab4-4f7d-b91c-02d4a5569d63" alt="preview" style="width:30%; height:auto;">
 
 ## Main features
-- Powered by power bank
+- Powered by powerbank
 - Energy efficient design
 - More than 5W of output power
 - Low noise
