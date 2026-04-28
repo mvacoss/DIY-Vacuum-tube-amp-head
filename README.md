@@ -1,9 +1,9 @@
 # DIY-Vacuum-tube-amp-head
 
 ## Overview
-A dual tube, compact class A amplifier head. It can be powered from powerbank or 12V DC adapter, so it can be carried around without any need of power grid. It consists of ECC83 double triode as preamplifier and EL84 pentode as power amplifier.
+I've build this Vacuum tube amplifier head so I can play with my guitar at tube-level audio quality! It features line level input, so it doubles as "headphone amplifier" and considering that it consists of ECC83 double triode as preamplifier and EL84 pentode as power amplifier, the sound quality is really good!
 
-It has a lot of useful features, including High Z (6,3mm jack for electric guitar( and line-level Z (3.5mm jack) inputs and clean and OD modes. It combines wood housing and aluminum side panels along with some black knobs that makes it look somewhat reasonable. This project was part of my exhibition during SOČ day in our School. I've managed to complete it in three weeks and I think it turned out really well! The sound is just amazing!
+It has a lot of useful features, beside the High Z (6,3mm jack for electric guitar and line-level Z (3.5mm jack) inputs, it has switch between clean and OD mode. It combines wood housing (or body if you will) and aluminum side panels along with some black knobs that makes it look somewhat reasonable. This project was part of my exhibition during SOČ day in our High school. I've managed to complete it in three weeks and I think it turned out really well!
 
 <img src="https://github.com/user-attachments/assets/b899b94e-9ab4-4f7d-b91c-02d4a5569d63" alt="preview" style="width:30%; height:auto;">
 
@@ -37,7 +37,7 @@ As some of you might know, Vacuum tubes produce often so called "warm" or "rich"
 ## Schematic & circuit
 When it comes to schematic, I was inspired (as every usual vacuum tube builder do) by the Fender "CHAMP-AMP" guitar amplifier circuit from 50s. It is a really good design and a lot of tube amps come from this particular circuit I believe. Anyways, I designed my circuit using the [KiCad EDA](https://www.kicad.org/). It is really good software and I recommend it to everyone who is starting with schematic and PCB design.
 
-Below we will discuss every part of the schematic I made and I will explain what every component do
+Below we will discuss every part of the schematic I made and I will explain what every component does
 
 ### Inputs
 
